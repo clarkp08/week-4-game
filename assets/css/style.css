@@ -1,0 +1,8 @@
+body { 
+  background: url(../images/espn.jpg) no-repeat center center fixed; 
+  color: white;
+}
+
+.jumbotron {
+	background: black;
+}
