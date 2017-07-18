@@ -6,3 +6,8 @@ body {
 .jumbotron {
 	background: black;
 }
+
+#total-score {
+	font-size: 46px;
+	color: limegreen;
+}
